@@ -1,9 +1,9 @@
 {
     "colors": {
-        "headerBg": "#4578FF",
-        "menuBg": "#4578FF",
-        "burgerColor": "#ffffff"
-    },
+    "headerBg": "#00A86B,
+    "menuBg": "#00A86B",
+    "burgerColor": "#00A86B"
+},
     "menu": {
         "items": [
             { "name": "Главная", "url": "/" },
