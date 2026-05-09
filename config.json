@@ -4,6 +4,10 @@
     "menuBg": "#00A86B",
     "burgerColor": "#00A86B"
 },
+    "logo": {
+    "text": "Офис страхования",
+    "enabled": true
+},
     "menu": {
         "items": [
             { "name": "Главная", "url": "/" },
